@@ -4,6 +4,7 @@ var http = require('http')
 //Criamos o servidor
 var server = http.createServer(function(req, res) {
 	//A propriedade 'method' de req eh quem define o tipo de requisicao
+	// o '===' garante que sejam identicos, ja que o == no JavaScript eh traicoeiro
 	//Se for GET
 	if(req.method === 'GET') {
 		res.end('Foi feita uma req do tipo GET')
