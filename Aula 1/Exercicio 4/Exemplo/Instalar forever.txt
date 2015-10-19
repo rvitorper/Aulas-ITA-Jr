@@ -1,0 +1,3 @@
+Pelo console/terminal/cmd/linha de comando, executar, em qualquer pasta:
+
+npm install -g forever 

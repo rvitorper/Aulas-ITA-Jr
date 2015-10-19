@@ -1,0 +1,3 @@
+npm install -g nodemon
+nodemon sem_erros.js
+nodemon com_erros.js

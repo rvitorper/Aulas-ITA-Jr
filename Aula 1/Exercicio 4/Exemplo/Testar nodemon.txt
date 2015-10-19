@@ -1,0 +1,3 @@
+Você deve navegar até a pasta do exemplo pelo console/terminal/cmd/linha de comando e executar:
+
+nodemon index.js 
